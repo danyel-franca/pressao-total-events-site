@@ -31,7 +31,7 @@ Este projeto foi desenvolvido com o objetivo de:
 
 ---
 
-## 👨‍💻 Autor
+## Autor
 
 Desenvolvido por **Danyel França**
 
