@@ -1,9 +1,37 @@
-1. Para quem?
-    É um projeto para uma empresa que faz shows e todos os tipos de eventos.
+# DJ Events Website
 
-2. O que é?
-    É um site que permite os clientes acessar, navegar e contratar a empresa, 
-    para fazer seu evento em determinada data.
-    O cliente poderá dizer o tipo do evento, a data, nome e local.
-    O sistema é integrado automaticamente com o whatsapp, após o preenchimento das
-    informações a mensagem é gerada e o cliente é levado para o whatsapp.
+Website institucional desenvolvido para um DJ de eventos, com foco em apresentação de serviços, portfólio visual e contato com clientes.
+
+---
+
+## Sobre o projeto
+
+Este projeto consiste em um site responsivo voltado para divulgação de eventos, apresentações e serviços de DJ.
+
+O objetivo é oferecer uma experiência visual atrativa, destacando performances, estrutura de eventos e facilitando o contato com clientes.
+
+---
+
+## Funcionalidades
+
+* Página inicial com apresentação do DJ
+* Página de eventos
+* Página de contato
+* Exibição de vídeos de apresentações
+* Galeria de imagens
+* Layout responsivo (adaptado para mobile)
+
+## Objetivo
+
+Este projeto foi desenvolvido com o objetivo de:
+
+* Praticar desenvolvimento front-end
+* Criar um site real para portfólio
+* Aplicar conceitos de organização e responsividade
+
+---
+
+## 👨‍💻 Autor
+
+Desenvolvido por **Danyel França**
+
