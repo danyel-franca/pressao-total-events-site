@@ -1,4 +1,4 @@
-# DJ Events Website
+# Website Dj Eventos
 
 Website institucional desenvolvido para um DJ de eventos, com foco em apresentação de serviços, portfólio visual e contato com clientes.
 
