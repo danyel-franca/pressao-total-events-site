@@ -1,37 +1,38 @@
-# Website Dj Eventos
+# DJ Events Website
 
-Website institucional desenvolvido para um DJ de eventos, com foco em apresentação de serviços, portfólio visual e contato com clientes.
-
----
-
-## Sobre o projeto
-
-Este projeto consiste em um site responsivo voltado para divulgação de eventos, apresentações e serviços de DJ.
-
-O objetivo é oferecer uma experiência visual atrativa, destacando performances, estrutura de eventos e facilitando o contato com clientes.
+Institutional website developed for an event DJ, focused on service presentation, visual portfolio, and client contact.
 
 ---
 
-## Funcionalidades
+## About the Project
 
-* Página inicial com apresentação do DJ
-* Página de eventos
-* Página de contato
-* Exibição de vídeos de apresentações
-* Galeria de imagens
-* Layout responsivo (adaptado para mobile)
+This project consists of a responsive website designed to showcase events, performances, and DJ services.
 
-## Objetivo
-
-Este projeto foi desenvolvido com o objetivo de:
-
-* Praticar desenvolvimento front-end
-* Criar um site real para portfólio
-* Aplicar conceitos de organização e responsividade
+The main goal is to provide an attractive visual experience, highlighting performances, event structure, and making client communication easier.
 
 ---
 
-## Autor
+## Features
 
-Desenvolvido por **Danyel França**
+* Home page introducing the DJ
+* Events page
+* Contact page
+* Performance video showcase
+* Image gallery
+* Responsive layout (mobile-friendly)
 
+---
+
+## Goal
+
+This project was developed with the purpose of:
+
+* Practicing front-end development
+* Building a real-world portfolio project
+* Applying organization and responsive design concepts
+
+---
+
+## Author
+
+Developed by **Danyel França**
